@@ -1,5 +1,6 @@
 import _ from 'lodash'
 import '@public/index.css'
+import '@public/normalize.css'
 
 function component() {
   const element = document.createElement('div')
